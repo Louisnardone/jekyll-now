@@ -37,24 +37,24 @@ h1, h2, h3, h4, h5, h6 {
   color: #0000ff;
   font-weight: bold;
 
-  line-height: 1.7;
+  line-height: 1.9;
   margin: 1em 0 15px;
   padding: 0;
 
   @include mobile {
-    line-height: 1.4;
+    line-height: 1.6;
   }
 }
 
 h1 {
-  font-size: 30px;
+  font-size: 35px;
   a {
     color: inherit;
   }
 }
 
 h2 {
-  font-size: 24px;
+  font-size: 25px;
 }
 
 h3 {
