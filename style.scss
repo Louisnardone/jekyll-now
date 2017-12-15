@@ -23,9 +23,11 @@ body {
   color: #008ae6;
 }
 
-script{ 
-src="snowstorm.js"></
-}
+<script>
+snowStorm.snowColor = '#99ccff';
+snowStorm.flakesMaxActive = 96;
+snowStorm.useTwinkleEffect = true;
+</script>
 
 .container {
   margin: 0 auto;
