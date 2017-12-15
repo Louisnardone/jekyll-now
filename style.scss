@@ -17,17 +17,17 @@ html {
   font-size: 100%;
 }
 
-body {
+body {{
 	background-image: url("https://www.irelandsown.ie/wp-content/uploads/2017/12/hith-father-christmas-lights-iStock_000029514386Large.jpg");
   font: 18px/1.4 #Ultra;
   color: #008ae6;
 }
 
-<script>
+script {
 snowStorm.snowColor = '#99ccff';
 snowStorm.flakesMaxActive = 96;
 snowStorm.useTwinkleEffect = true;
-</script>
+}
 
 .container {
   margin: 0 auto;
